@@ -225,6 +225,9 @@ h3 {
 }
 
 /*	HOW IT WORKS   */
+.section-steps {
+	background-color: hsl(100, 15%, 99%);
+}
 
 .steps-box {
 	margin-top: 30px;
