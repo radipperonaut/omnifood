@@ -237,6 +237,7 @@ h3 {
 
 .section-steps {
 	background-color: hsl(100, 15%, 99%);
+	margin-top: 200px;
 }
 
 .steps-box:first-child {
