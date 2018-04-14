@@ -446,8 +446,12 @@ textarea,
 select{
     margin: 8px;
     border-radius: 3px;
-    width: 100%;
+    width: 50%;
     border: 1px solid #ccc;
+}
+
+input[type=submit]{
+    width: 20%;
 }
 
 /* FOOTER */
@@ -477,4 +481,6 @@ li{
  .footext{
      width: 60%;
      margin-left: 20%;
-     p
+     padding-top: 10rem;
+     padding-bottom: 8rem;
+ }
